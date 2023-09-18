@@ -1,0 +1,6 @@
+2.2_linear_regression_one_parameter_v3 yields errors in
+while executing the line
+
+train_model(4)
+
+This happens also in online Lab.

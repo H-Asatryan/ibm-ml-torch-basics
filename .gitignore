@@ -1,0 +1,7 @@
+# data/
+**/.ipynb_checkpoints
+**/.DS_Store
+__pycache__/
+
+# Ignore these paired notebooks:
+# Softmax Regression/pytorch_1_2_Softmax.ipynb
